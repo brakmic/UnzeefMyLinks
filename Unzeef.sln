@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractZeefLinks", "ExtractZeefLinks\ExtractZeefLinks.csproj", "{F93E5B12-A4B3-4CEC-877A-2EFB07E0561E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyLinkPages", "MyLinkPages", "{7C93148B-8331-4A1D-97E6-3DA4A6DA68C8}"
+	ProjectSection(SolutionItems) = preProject
+		MyLinkPages\angularjs.xml = MyLinkPages\angularjs.xml
+		MyLinkPages\backbonejs.xml = MyLinkPages\backbonejs.xml
+		MyLinkPages\coding.xml = MyLinkPages\coding.xml
+		MyLinkPages\openui5.xml = MyLinkPages\openui5.xml
+		MyLinkPages\ractive.xml = MyLinkPages\ractive.xml
+		MyLinkPages\rexx.xml = MyLinkPages\rexx.xml
+		MyLinkPages\rust.xml = MyLinkPages\rust.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{888EE4C3-428A-46DE-A740-803E695F811B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93E5B12-A4B3-4CEC-877A-2EFB07E0561E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93E5B12-A4B3-4CEC-877A-2EFB07E0561E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93E5B12-A4B3-4CEC-877A-2EFB07E0561E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93E5B12-A4B3-4CEC-877A-2EFB07E0561E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
