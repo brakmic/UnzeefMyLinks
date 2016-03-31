@@ -29,7 +29,9 @@ Of course, I understand that companies have certain commercial interests and tha
 
 #### Usage
 
-`ExtractZeefLinks.exe` **your_exported.xml**
+`ExtractZeefLinks.exe` *your_exported.xml*
+
+My former link collections are located under *MyLinkPages* subdir.
 
 #### Compiling
 
