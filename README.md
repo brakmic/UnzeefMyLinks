@@ -14,7 +14,7 @@ And especially I don't want to have anything commercial on my link-pages.
 
 I've collected all those links to **help** the Developer community!
 
-We all know how hard it can be to learn JavaScript, for example, and the gazillion of different `technolologies` so these link-pages were created to support JavaScript enthusiasts.
+We all know how hard it can be to learn JavaScript and the gazillion of different `technologies` so these link-pages were created to support JavaScript enthusiasts.
 
 Some time ago Zeef responded with apologies and even offered me to participate in this `advertising scheme` but I refused. 
 
