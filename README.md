@@ -1,6 +1,6 @@
 # Unzeef My Links
 
-A simple XML-Link Extractor to get your links out from [Zeef](https://zeef.com/)-Pages.
+A simple XML-Link Extractor to get your links out of [Zeef](https://zeef.com/)-Pages.
 
 <img src="http://fs5.directupload.net/images/160331/fmqrr46v.png" width="900" height="500"/>
 
