@@ -31,6 +31,10 @@ Of course, I understand that companies have certain commercial interests and tha
 
 `ExtractZeefLinks.exe` **your_exported.xml**
 
+#### Compiling
+
+Use **Visual Studio 2015** to open the solution file **Unzeef.sln**
+
 #### License
 
 [MIT](https://github.com/brakmic/UnzeefMyLinks/blob/master/LICENSE)
